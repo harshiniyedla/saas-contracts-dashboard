@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* helper so app always fills height */
+html, body, #root {
+  height: 100%;
+}
